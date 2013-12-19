@@ -1,0 +1,5 @@
+<config>
+	<protocol name="http"/>
+	<model name="i5.las2peer.services.iStarMLModelService.IStarMLModelService" path="localhost:9092"/>
+	<visualizer name="i5.las2peer.services.iStarMLVisualizerService.IStarMLVisualizerService" path="localhost:9092"/>
+</config>
